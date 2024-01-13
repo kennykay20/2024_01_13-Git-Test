@@ -1,1 +1,4 @@
 our second initial page
+
+here is another record for second initial page, 
+so i forgot to add this as a detached-head mode!
